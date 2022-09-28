@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RizalMilyardi
-- 👀 I’m interested in no one
-- 🌱 I’m currently learning no one
-- 💞️ I’m looking to collaborate on no one
+- 👀 I’m interested in NLP
+- 🌱 I’m currently learning NLP
+- 💞️ I’m looking to collaborate on AI Community
 - 📫 How to reach me nothing
 
 <!---
